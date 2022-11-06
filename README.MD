@@ -33,6 +33,8 @@ https://www.pinball.center/en/shop/pinball-parts-by-game/comet/1634/pinscore-pin
 
 ### Cabinet
 
+https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
+
 ### Stencils
 
 http://pinballpimpstencils.com/sorcerer/
