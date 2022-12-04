@@ -21,6 +21,10 @@ Williams 1985 SORCERER
 
 https://classicplayfields.com/shop/pinball-playfields/sorcerer/
 
+### Backglass
+
+https://www.planetarypinball.com/PPS-31-1316-532
+
 ### Plastics
 
 https://classicplayfields.com/shop/pinball-plastics/sorcerer-3/
