@@ -15,7 +15,25 @@ Williams 1985 SORCERER
 
 * https://pinside.com/pinball/forum/topic/to-save-a-sorcerer-or-how-to-spend-3000-on-a-1200-machine
 
+### Teardown Guides
+
+* [Part 1](https://youtu.be/UXOHSWJmVVg)
+* [Part 2](https://youtu.be/b_AGc0FK8do)
+* [Playfield Wiring Removal](https://youtu.be/N1YdV9SS6hA)
+* [New Playfield](https://youtu.be/zSiuu4HefVs)
+* [X Pin Display](https://youtu.be/-x5iM099xMg)
+* [Lighted Flipper Mod](https://youtu.be/FECWagDECGI)
+* [Finale](https://youtu.be/KxF9zpA3A7s)
+
 ## Parts
+
+### Rubbers
+
+* Titan
+
+### Flipper Bats
+
+* 
 
 ### Sources
 
