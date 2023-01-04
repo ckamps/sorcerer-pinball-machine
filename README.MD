@@ -17,13 +17,16 @@ Williams 1985 SORCERER
 
 ## Parts
 
+### Sources
+
+https://www.marcospecialties.com/pinball-parts/402?VIEW_SIZE=60&VIEW_INDEX=2&view=card&sortOrder=SortProductPrice:DEFAULT_PRICE
+
+
 ### Playfield
 
 https://classicplayfields.com/shop/pinball-playfields/sorcerer/
 
 #### Playfield Parts
-
-
 
 ### Backglass
 
@@ -42,6 +45,10 @@ https://www.pinball.center/en/shop/pinball-parts-by-game/comet/1634/pinscore-pin
 ### Cabinet
 
 https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
+
+#### Cabinet Wood
+
+https://www.menards.com/main/building-materials/panel-products/mdf-mdo-panels/roseburg-3-4-x-4-x-8-mdo-plywood/1255058/p-1444452506069-c-13338.htm?tid=1865001686127139056&ipos=7
 
 ### Stencils
 
