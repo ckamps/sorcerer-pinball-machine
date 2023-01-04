@@ -62,6 +62,8 @@ https://www.pinball.center/en/shop/pinball-parts-by-game/comet/1634/pinscore-pin
 
 ### Cabinet
 
+https://virtuapin.net/index.php?main_page=index&cPath=19
+
 https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
 
 #### Cabinet Wood
