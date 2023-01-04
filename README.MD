@@ -54,13 +54,17 @@ https://www.planetarypinball.com/PPS-31-1316-532
 
 https://classicplayfields.com/shop/pinball-plastics/sorcerer-3/
 
-### Electronics
+## Electronics
 
-#### Batteries to NVRAM Conversion
+### Batteries to NVRAM Conversion
 
 ...
 
-#### LED Display
+### Solenoid Saver Board
+
+https://pinside.com/pinball/forum/topic/special-solenoid-saver-board-for-wms-3-7#post-3470670
+
+### LED Display
 
 https://www.pinball.center/en/shop/pinball-parts-by-game/comet/1634/pinscore-pinball-led-display-for-williams-system-9?c=2134
 
