@@ -12,6 +12,7 @@ Williams 1985 SORCERER
 
 ## Manual
 
+[System 9 Repair Guide](http://gamearchive.askey.org/Pinball/Manufacturers/Williams/pdfs/pinball_troubleshooting_sys9.pdf)
 
 ## Example Restorations
 
@@ -29,6 +30,14 @@ Williams 1985 SORCERER
 
 ## Parts
 
+### Sources
+
+https://www.marcospecialties.com/pinball-parts/402?VIEW_SIZE=60&VIEW_INDEX=2&view=card&sortOrder=SortProductPrice:DEFAULT_PRICE
+
+### Reproduction Playfield
+
+https://classicplayfields.com/shop/pinball-playfields/sorcerer/
+
 ### Rubbers
 
 * Titan
@@ -36,17 +45,6 @@ Williams 1985 SORCERER
 ### Flipper Bats
 
 * 
-
-### Sources
-
-https://www.marcospecialties.com/pinball-parts/402?VIEW_SIZE=60&VIEW_INDEX=2&view=card&sortOrder=SortProductPrice:DEFAULT_PRICE
-
-
-### Playfield
-
-https://classicplayfields.com/shop/pinball-playfields/sorcerer/
-
-#### Playfield Parts
 
 ### Backglass
 
@@ -57,6 +55,10 @@ https://www.planetarypinball.com/PPS-31-1316-532
 https://classicplayfields.com/shop/pinball-plastics/sorcerer-3/
 
 ### Electronics
+
+#### Batteries to NVRAM Conversion
+
+...
 
 #### LED Display
 
@@ -76,7 +78,6 @@ https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
 
 https://www.menards.com/main/building-materials/panel-products/mdf-mdo-panels/roseburg-3-4-x-4-x-8-mdo-plywood/1255058/p-1444452506069-c-13338.htm?tid=1865001686127139056&ipos=7
 
-### Stencils
+#### Stencils
 
 http://pinballpimpstencils.com/sorcerer/
-
