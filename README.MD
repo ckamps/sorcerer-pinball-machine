@@ -75,6 +75,8 @@ https://pinside.com/pinball/forum/topic/special-solenoid-saver-board-for-wms-3-7
 
 https://www.pinball.center/en/shop/pinball-parts-by-game/comet/1634/pinscore-pinball-led-display-for-williams-system-9?c=2134
 
+https://www.thepinballwizard.net/rottendog-circuit-boards/williams-system-7-9-led-display-set-classic-orange-dis079/
+
 ### Cabinet
 
 https://virtuapin.net/index.php?main_page=index&cPath=19
