@@ -58,7 +58,7 @@ https://classicplayfields.com/shop/pinball-plastics/sorcerer-3/
 
 ### Batteries to NVRAM Conversion
 
-...
+https://www.ministryofpinball.com/en/anypin-nvram.html
 
 ### Solenoid Saver Board
 
