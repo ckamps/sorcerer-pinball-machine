@@ -61,6 +61,10 @@ https://www.planetarypinball.com/PPS-31-1316-532
 
 https://classicplayfields.com/shop/pinball-plastics/sorcerer-3/
 
+### Target Decals
+
+https://www.marcospecialties.com/pinball-parts/30-7575S
+
 ## Electronics
 
 ### Batteries to NVRAM Conversion
