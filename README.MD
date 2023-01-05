@@ -44,7 +44,10 @@ https://classicplayfields.com/shop/pinball-playfields/sorcerer/
 
 ### Flipper Bats
 
-* 
+
+### Flipper Buttons
+
+[Lighted buttons](https://www.pinballlife.com/britebuttons-illuminated-flipper-button-set-for-williamsbally-system-9-11.html)
 
 ### Backglass
 
@@ -73,6 +76,8 @@ https://www.pinball.center/en/shop/pinball-parts-by-game/comet/1634/pinscore-pin
 https://virtuapin.net/index.php?main_page=index&cPath=19
 
 https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
+
+[Cabinet Stencils](http://pinballpimpstencils.com/sorcerer/)
 
 #### Measurements
 
