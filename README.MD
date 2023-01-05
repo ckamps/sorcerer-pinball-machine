@@ -12,6 +12,8 @@ Williams 1985 SORCERER
 
 [Specifications](https://www.pinwiki.com/wiki/index.php/Williams_System_9_-_11#System_9)
 
+[Serial Numbers](https://www.ipsnd.net/view.aspx?id=2242)
+
 ## Manual
 
 [System 9 Repair Guide](http://gamearchive.askey.org/Pinball/Manufacturers/Williams/pdfs/pinball_troubleshooting_sys9.pdf)
