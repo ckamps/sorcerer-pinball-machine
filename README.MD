@@ -79,7 +79,9 @@ https://www.thepinballwizard.net/rottendog-circuit-boards/williams-system-7-9-le
 
 ### Cabinet
 
-https://virtuapin.net/index.php?main_page=index&cPath=19
+#### Pre-Built
+
+[VirtuaPin](https://virtuapin.net/index.php?main_page=index&cPath=19) - may be building this era later in 2023
 
 https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
 
