@@ -93,6 +93,10 @@ https://www.thepinballwizard.net/rottendog-circuit-boards/williams-system-7-9-le
 
 https://pinside.com/pinball/community/pinsiders/cosmokramer/forum
 
+#### DIY
+
+[CAD](https://github.com/jonaskello/wpc-cabinet/)
+
 [Sawing Tips](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=cabBody)
 
 [Cabinet Stencils](http://pinballpimpstencils.com/sorcerer/)
