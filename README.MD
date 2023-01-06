@@ -32,6 +32,10 @@ Williams 1985 SORCERER
 * [Lighted Flipper Mod](https://youtu.be/FECWagDECGI)
 * [Finale](https://youtu.be/KxF9zpA3A7s)
 
+## Programming
+
+[Balls Per Game](https://www.vpforums.org/index.php?app=tutorials&article=80)
+
 ## Parts
 
 ### Sources
